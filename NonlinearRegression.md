@@ -20,7 +20,7 @@ I have developed a simple model for a feed-forward neural network.
 
 Resampling performance:
 | Model          | Tuning parameters | RMSE    | Rsquared | MAE    |
-|----------------|-------------------|---------|----------|--------|
+|----------------|:-----------------:|:-------:|:--------:|-------:|
 |Neural Network  |                   |         |          |        |
 |kNN             |k = 11             |13.31055 |0.3292892 |8.999609|
 |MARS            |degree=1, nprune=5 |13.82685 |0.3150553 |9.099420|
@@ -28,7 +28,7 @@ Resampling performance:
 
 Test set performance using the optimal tuning parameter:
 | Model          | RMSE     | Rsquared | MAE     |
-|----------------|----------|----------|---------|
+|----------------|:--------:|:--------:|--------:|
 |Neural Network  |          |          |         |
 |kNN             |9.4412141 |0.6787852 |7.0660115|
 |MARS            |10.1847106|0.5974051 |6.9809899|
