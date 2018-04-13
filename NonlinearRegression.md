@@ -19,6 +19,7 @@ I have developed a simple model for a feed-forward neural network.
 ### A comparison between the 4 models:
 
 Resampling performance:
+
 | Model          | Tuning parameters | RMSE    | Rsquared | MAE    |
 |:---------------|:-----------------:|:-------:|:--------:|-------:|
 |Neural Network  |                   |         |          |        |
@@ -27,6 +28,7 @@ Resampling performance:
 |SVM             |C = 8192.00        |12.05852 |0.4394367 |8.422084|
 
 Test set performance using the optimal tuning parameter:
+
 | Model          | RMSE     | Rsquared | MAE     |
 |:---------------|:--------:|:--------:|--------:|
 |Neural Network  |          |          |         |
