@@ -13,6 +13,7 @@ I have only used a single predictor in the dataset `Molecular Weight` and built 
 
 ### A regression tree
 R lets you plot your decision tree so that you can visualize it using the `rpart` and `partykit` libraries.
+<img src="https://github.com/RuchitaGarde/Data-Science/blob/master/Attachments/Regressiontree.png" width="500px" height="350px"/>
 
 ### *References*
 [Applied Predictive Modelling](http://appliedpredictivemodeling.com/) by Max Kuhn and Kjell Johnson, published by Springer.
