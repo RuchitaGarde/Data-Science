@@ -10,18 +10,18 @@ The packages you will need:
 - `library(caret)`
 
 
-### **Neural Networks**
+### - Neural Networks
 I have developed a simple model for a feed-forward neural network.
 
 
-### * kNN
-<img src="https://github.com/RuchitaGarde/Data-Science/blob/master/Attachments/knnmodel.PNG.jpg" width="500px" height="350px"/>
+### - kNN
+<img src="https://github.com/RuchitaGarde/Data-Science/blob/master/Attachments/knnmodel.PNG" width="500px" height="350px"/>
 <img src="https://github.com/RuchitaGarde/Data-Science/blob/master/Attachments/knnplot.PNG" width="500px" height="350px"/>
 
-### * MARS
+### - MARS
 <img src="https://github.com/RuchitaGarde/Data-Science/blob/master/Attachments/marsmodel.PNG" width="500px" height="350px"/>
 
-### * SVM
+### - SVM
 <img src="https://github.com/RuchitaGarde/Data-Science/blob/master/Attachments/svmmodel.PNG" width="500px" height="350px"/>
 
 ### A comparison between the 4 models:
