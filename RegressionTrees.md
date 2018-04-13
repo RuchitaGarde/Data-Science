@@ -4,7 +4,15 @@ I have used the ['solubility'](http://appliedpredictivemodeling.com/data) datase
 - A simple regression tree
 - Random forest
 
+The packages you will need:
+- `data(solubility)`
+- `library(rpart)`
+- `library(partykit)`
+
 I have only used a single predictor in the dataset `Molecular Weight` and built a visual for a better understanding of the regression tree. Please refer to the R script titled 'RegressionTrees.R' for the code.
 
+### A regression tree
+R lets you plot your decision tree so that you can visualize it using the `rpart` and `partykit` libraries.
+
 ### *References*
-[Applied Predictive Modelling] (http://appliedpredictivemodeling.com/) by Max Kuhn and Kjell Johnson, published by Springer.
+[Applied Predictive Modelling](http://appliedpredictivemodeling.com/) by Max Kuhn and Kjell Johnson, published by Springer.

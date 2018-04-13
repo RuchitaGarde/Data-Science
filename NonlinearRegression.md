@@ -38,6 +38,6 @@ Test set performance using the optimal tuning parameter:
 
 
 ### *References*
-[Applied Predictive Modelling] (http://appliedpredictivemodeling.com/) by Max Kuhn and Kjell Johnson, published by Springer.
+[Applied Predictive Modelling](http://appliedpredictivemodeling.com/) by Max Kuhn and Kjell Johnson, published by Springer.
 
 
