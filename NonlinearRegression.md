@@ -10,11 +10,15 @@ The packages you will need:
 - `library(caret)`
 
 
-### Neural Networks
+### **Neural Networks**
 I have developed a simple model for a feed-forward neural network.
 
 
-### kNN model
+### **kNN model**
+
+### **MARS**
+
+### **SVM**
 
 ### A comparison between the 4 models:
 
